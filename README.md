@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hii, I'm Abhinav <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px">
 
-<!--
-**unleashedme/unleashedme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✨ About Me
+I’m an Android Developer who loves exploring new technologies and growing through every mistake I make 🚀. Java is my primary language, and building Android apps is something I’m genuinely passionate about 📱. I believe in continuous learning, improving step by step, and always pushing myself to create better solutions every time 💡✨.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🖥️ Languages
+- ☕ **Java**  
+- 🟣 **Kotlin**     
+
+---
